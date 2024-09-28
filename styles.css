@@ -25,8 +25,13 @@ nav ul li a {
     color: #000;
 }
 
-main {
+main, section { /* Agregamos estilos para la sección */
     padding: 20px;
+}
+
+img {
+    border: 1px solid #ccc;
+    margin: 10px 0;
 }
 
 footer p {
